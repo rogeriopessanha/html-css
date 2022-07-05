@@ -1,0 +1,14 @@
+Capítulo 3 Aula 2 – Front-end, Back-end e Full stack
+
+front-end e back end
+
+HTML CSS JS
+client-side(lado do cliente) é visto pelo usuario
+client-side também conhecido como front-end
+
+serve-side(lado do servidor)
+serve-side também conhecido como back-end
+linguages usadas no back-end PHP,JS,C#,Python, Ruby e Java
+PHP é a linguagem mais usada no vack-end 
+
+conhecimento em front-end e back-end = a full stack

@@ -1,0 +1,22 @@
+Capítulo 2 Aula 2 – O que é domínio e hospedagem?
+
+www.github.com/gustavoguanabara é a URL
+
+www é o sub-dominio
+github.com é o dominio
+.com é o TLD
+gustavoguanabara é o caminho
+
+
+ccTLD = (country code top-level domain)
+      (domínio de topo de código de país)
+
+gTLD é o acrônimo de Generic Top-Level Domain
+cuja tradução seria algo como domínio de topo genérico
+
+
+gustavoguanabara.github.io é a URL
+gustavoguanabara é o sub dominio
+.github.io é o dominio
+.io é a TDL
+

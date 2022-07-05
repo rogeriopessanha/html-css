@@ -1,0 +1,24 @@
+Capítulo 3 Aula 1 - A diferença entre HTML, CSS e JavaScript
+
+Jeito certo de dizer, eu desenvolvo em HTML e CSS...
+não se programa em HTML e CSS pq não são uma linguagem de programação
+
+siginificado de HTML e CSS
+HTML é HyperText / Markup / Language
+tradução linguagem de marcação de hyperTexto
+
+CSS é Cascading / Style / Sheets
+tradução folhas de estilo em cascatas
+
+A linguagem HTML é focada em conteúdo
+textos, imagens, videos, tabelas
+
+A CSS é o design, foco em deixar o site mais bonito e atrativo
+cores, sombras, tamanhos, posicionamento
+
+JavaScript são as interações numa página
+menus, animações, popups, validações
+
+HTML - conteudo
+CSS - estilo
+JS - interatividade
